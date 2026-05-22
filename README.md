@@ -100,7 +100,7 @@ Model training can be simply done by running the following script.
 python -m gfibot.model.predictor
 ```
 
-### Dataset Dump
+### Dataset Dump dump
 
 The Zenodo dataset can be dumped using the following script. See [Zenodo](https://doi.org/10.5281/zenodo.6665931) for more details about how to use the dumped dataset.
 
